@@ -18,8 +18,8 @@ I'm passionate about building useful, clean, and scalable solutions with data, c
 ## 🚀 About me
 
 - 💼 Data professional with experience in data engineering, machine learning and analytics
-- 🎓 Background from Universidade de Brasília
-- 🧠 Currently improving my skills in software development, data, and backend technologies
+- 🎓 Production Engineering graduate from Universidade de Brasília with an MBA in Data Science. 
+- 🧠 Currently improving my skills in AI engineering, data and software development.
 - 🎬 Creator of **cinephile-beta**, an app that recommends movies based on personal preferences
 - 🌱 Always learning, experimenting, and building better projects
 
