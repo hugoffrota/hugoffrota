@@ -47,7 +47,8 @@ I build data-driven tools, practical software experiments and tinker with AI.
 
 ---
 
-## 🎬 Featured Project: Cinephile
+## 📌 Featured Projects: 
+### 🎬 Cinephile
 
 **Cinephile** is a movie recommendation and tracking app that helps users discover films based on their personal taste, ratings, watchlist, and viewing history.
 
@@ -76,6 +77,35 @@ I build data-driven tools, practical software experiments and tinker with AI.
 
 </div>
 
+---
+
+### ✅ Habit Tracker
+
+**Habit Tracker** is a mobile app for managing daily habits, tracking consistency, and keeping simple routines visible and easy to update for Android and Wear OS.
+
+<div align="center">
+
+<a href="https://github.com/hugoffrota/habit-tracker">
+  </a>
+
+</div>
+
+#### Highlights
+
+- ✅ Create and manage personal habits with Wear OS sync.
+- 📈 Track best streaks and daily progress
+- ✏️ Edit or delete habits directly from each card
+- 🌙 Dark-themed mobile UI
+- 🎨 Clean layout with rounded cards and purple accents
+
+### Screenshots
+
+<div align="center">
+
+<img src="habit1.jpeg" width="30%" alt="Habit Tracker home screen showing habit cards" />
+<img src="habit2.jpeg" width="30%" alt="Screen showings stats" />
+
+</div>
 ---
 
 ## 📈 Coding Habit
