@@ -4,9 +4,9 @@
 
 # Hi, I'm Hugo Frota 👋
 
-### Data Engineer • AI Builder • Backend Learner
+### Data Engineer • Data Scientist • AI Engineer • Finance Analyst
 
-I build data-driven tools, movie recommendation systems, and practical software experiments.
+I build data-driven tools, practical software experiments and tinker with AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Frota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/hugofrota)
 [![GitHub](https://img.shields.io/badge/GitHub-hugoffrota-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugoffrota)
@@ -17,7 +17,7 @@ I build data-driven tools, movie recommendation systems, and practical software 
 
 ## 🚀 About me
 
-- 💼 Data professional with experience in **data engineering, analytics, and machine learning**
+- 💼 Data professional with experience in **data engineering, finance, analytics, and machine learning**
 - 🎓 Production Engineering graduate from **Universidade de Brasília**, with an MBA in Data Science
 - 🧠 Currently improving my skills in **AI engineering, backend development, and mobile apps**
 - 🎬 Creator of **Cinephile**, a movie recommendation app based on personal preferences
@@ -70,9 +70,9 @@ I build data-driven tools, movie recommendation systems, and practical software 
 
 <div align="center">
 
-<img src=".cinephile0.jpeg" width="30%" alt="Cinephile profile analytics screen" />
-<img src="./assets/cinephile-search.jpg" width="30%" alt="Cinephile smart search screen" />
-<img src="./assets/cinephile-recommendations.jpg" width="30%" alt="Cinephile recommendations screen" />
+<img src="cinephile0.jpeg" width="30%" alt="Cinephile profile analytics screen" />
+<img src="cinephile1.jpeg" width="30%" alt="Cinephile smart search screen" />
+<img src="cinephile2.jpeg" width="30%" alt="Cinephile recommendations screen" />
 
 </div>
 
